@@ -77,41 +77,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "id": "8f43",
-      "nome": "ignt",
-      "carne": "Veggie burger",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Tomate"
-      ],
-      "status": "Em produção"
-    },
-    {
-      "id": "3605",
-      "nome": "Leandro",
-      "carne": "Alcatra",
-      "pao": "Integral",
-      "opcionais": [
-        "Cheddar",
-        "Tomate",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "3647",
-      "nome": "iiiiiiiiieuw",
-      "carne": "",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Cheddar",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Finalizado"
-    }
-  ]
+  "burgers": []
 }
